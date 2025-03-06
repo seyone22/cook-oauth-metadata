@@ -1,8 +1,8 @@
 {
-  "client_id": "https://app.example.com/oauth/client-metadata.json",
+  "client_id": "https://seyone22.github.io/cook-oauth-metadata/client-metadata.json",
   "application_type": "native",
   "client_name": "Cook",
-  "client_uri": "https://app.example.com",
+  "client_uri": "https://seyone22.github.io",
   "dpop_bound_access_tokens": true,
   "grant_types": [
     "authorization_code",
