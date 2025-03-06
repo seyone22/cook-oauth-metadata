@@ -9,7 +9,7 @@
     "refresh_token"
   ],
   "redirect_uris": [
-    "com.seyone22.cook:/oauth/callback"
+    "io.github.seyone22:/oauth/callback"
   ],
   "response_types": [
     "code"
