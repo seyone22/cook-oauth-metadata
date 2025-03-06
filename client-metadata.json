@@ -1,0 +1,19 @@
+{
+  "client_id": "https://app.example.com/oauth/client-metadata.json",
+  "application_type": "native",
+  "client_name": "Cook",
+  "client_uri": "https://app.example.com",
+  "dpop_bound_access_tokens": true,
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "redirect_uris": [
+    "com.seyone22.cook://oauth/callback"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "scope": "atproto transition:generic",
+  "token_endpoint_auth_method": "none"
+}
